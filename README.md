@@ -1,2 +1,3 @@
 # Onchain Data Dashboards
- Links to dashoards featuring dApps on different L1/L2 blockhains both MEV and non-MEV 
+This repository features links to my dashboards featuring data from dApps on different blockchains.
+It also features data on different L1/L2 chains, both MEV and non-MEV.
